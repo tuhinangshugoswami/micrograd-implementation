@@ -86,7 +86,7 @@ for k in range(20):
         p.data += -0.05 * p.grad
         
     print(f"Step {k} | Loss: {loss.data}")
-
+```
 ## 📂 Project Structure
 
 * `engine.py`: Contains the `Value` class and autograd logic.
