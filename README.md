@@ -90,7 +90,7 @@ for k in range(20):
 ## 📂 Project Structure
 
 * `engine.py`: Contains the `Value` class and autograd logic.
-* `nn.py`: Contains `Neuron`, `Layer`, and `MLP` classes.
+* `neural_net.py`: Contains `Neuron`, `Layer`, and `MLP` classes.
 * `demo.ipynb`: Jupyter notebook demonstrating training on a toy dataset.
 
 ## 📜 License
